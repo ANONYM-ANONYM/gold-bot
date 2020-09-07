@@ -3,7 +3,7 @@
 A multiple purpose Discord bot with Moderation, Embeds, Say, Fun and Other command.
 
 ### Support server: https://discord.gg/P5qqYz2
-
+### Invite link: https://discordapp.com/oauth2/authorize?client_id=696609881633062922&scope=bot&permissions=1278737863
 
 Commands: You can get list of avaible commands using **`!help`** command (But make sure that you must have DM message from members enabled or it wont work)
 Please add the bot to your server and vote for it to make the bot famous.
